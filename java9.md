@@ -1,4 +1,4 @@
-``cpp
+```cpp
 #include <iostream>
 #include <list>
 using namespace std;
@@ -59,4 +59,4 @@ Të provohen të gjitha metodat më poshtë
 
     return 0;
 }
-``
+```
