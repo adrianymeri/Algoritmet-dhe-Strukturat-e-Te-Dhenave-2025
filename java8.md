@@ -336,6 +336,7 @@ int main() {
 
     return 0;
 }
+```
 **Detyra 12:**
 ```cpp
 #include <iostream>
