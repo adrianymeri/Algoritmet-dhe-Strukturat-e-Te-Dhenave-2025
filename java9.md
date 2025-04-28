@@ -56,6 +56,11 @@ Të provohen të gjitha metodat më poshtë
     17.cend	
     18.crbegin	
     19.crend
+    20.pop_back
+    21.pop_front
+    22.push_back
+    23.push_front
+
     */
 
     return 0;
